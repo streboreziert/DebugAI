@@ -1,0 +1,2 @@
+# DebugAI
+Debuging made simple
